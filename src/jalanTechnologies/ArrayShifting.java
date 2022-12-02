@@ -69,3 +69,5 @@ class Shifting{
         }
     }
 }
+//Time complexity: O(N)
+// Auxiliary Space: O(D)
